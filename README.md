@@ -15,4 +15,4 @@ Explore Full-Stack Development with modern frameworks
 Contribute to open-source projects and collaborate with the developer community
 
 📫 Reach Me At:
-sunil.suthar@cognitivecoreai.com
+sunilsuthar20122@gmail.com
